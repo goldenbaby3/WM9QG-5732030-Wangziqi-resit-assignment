@@ -1,0 +1,11 @@
+transformed_feature,selected,rank
+Rotational speed [rpm],True,1
+Torque [Nm],True,1
+Tool wear [min],True,1
+Temperature difference [K],True,1
+Mechanical power [W],True,1
+Type_H,True,1
+Type_L,True,1
+Type_M,True,1
+Air temperature [K],False,2
+Process temperature [K],False,3

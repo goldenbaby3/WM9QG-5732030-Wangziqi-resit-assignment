@@ -1,0 +1,31 @@
+{
+  "columns": 14,
+  "duplicate_rows": 0,
+  "failure_count": 339,
+  "failure_mode_counts": {
+    "HDF": 115,
+    "OSF": 98,
+    "PWF": 95,
+    "RNF": 19,
+    "TWF": 46
+  },
+  "failure_rate": 0.0339,
+  "forbidden_model_columns": [
+    "UDI",
+    "Product ID",
+    "TWF",
+    "HDF",
+    "PWF",
+    "OSF",
+    "RNF"
+  ],
+  "missing_values": 0,
+  "product_type_counts": {
+    "H": 1003,
+    "L": 6000,
+    "M": 2997
+  },
+  "rows": 10000,
+  "unique_product_id": 10000,
+  "unique_udi": 10000
+}

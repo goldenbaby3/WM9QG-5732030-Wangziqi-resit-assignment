@@ -1,0 +1,18 @@
+{
+  "actual_failure": 1,
+  "case_row_index": 1492,
+  "case_values": {
+    "Air temperature [K]": 298.0,
+    "Mechanical power [W]": 9060.51029258564,
+    "Process temperature [K]": 308.7,
+    "Rotational speed [rpm]": 1479,
+    "Temperature difference [K]": 10.699999999999989,
+    "Tool wear [min]": 176,
+    "Torque [Nm]": 58.5,
+    "Type": "M"
+  },
+  "model_probability": 0.5780072061680416,
+  "perturbation_samples": 2500,
+  "surrogate_weighted_r2": 0.7407123032112158,
+  "warning": "Local surrogate coefficients describe this neighbourhood, not causal effects."
+}

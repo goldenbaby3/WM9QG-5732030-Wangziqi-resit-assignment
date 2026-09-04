@@ -1,0 +1,28 @@
+{
+  "balanced_accuracy": 0.9199549384971379,
+  "brier_score": 0.008612811068018207,
+  "calibration_method": "sigmoid",
+  "config": {
+    "false_negative_cost": 20.0,
+    "false_positive_cost": 1.0,
+    "quick": false,
+    "random_state": 5732030,
+    "root": "C:\\Users\\12932\\Documents\\Codex\\2026-08-03\\x-z\\ai4i_resit_project",
+    "test_size": 0.2
+  },
+  "f1_failure": 0.5714285714285714,
+  "false_negative_cost": 20.0,
+  "false_positive_cost": 1.0,
+  "fn": 8,
+  "fp": 82,
+  "log_loss": 0.04223225417061704,
+  "pr_auc": 0.8629180903643244,
+  "precision_failure": 0.4225352112676056,
+  "prevalence_test": 0.034,
+  "recall_failure": 0.8823529411764706,
+  "roc_auc": 0.9668889294848375,
+  "selected_model": "random_forest_balanced",
+  "threshold": 0.02,
+  "tn": 1850,
+  "tp": 60
+}

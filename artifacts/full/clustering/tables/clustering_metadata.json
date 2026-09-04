@@ -1,0 +1,22 @@
+{
+  "cluster_sizes": {
+    "0": 2490,
+    "1": 3736,
+    "2": 3774
+  },
+  "failure_rate_used_post_hoc_only": true,
+  "model_inputs": [
+    "Type",
+    "Air temperature [K]",
+    "Process temperature [K]",
+    "Rotational speed [rpm]",
+    "Torque [Nm]",
+    "Tool wear [min]",
+    "Temperature difference [K]",
+    "Mechanical power [W]"
+  ],
+  "selected_algorithm": "kmeans",
+  "selected_clusters": 3,
+  "selection_rule": "lowest combined rank across silhouette, Davies-Bouldin and seed stability",
+  "target_used_to_form_clusters": false
+}

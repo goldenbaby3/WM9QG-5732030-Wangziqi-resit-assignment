@@ -1,0 +1,15 @@
+variable,dtype,missing,unique,minimum,maximum
+UDI,int64,0,10000,1.0,10000.0
+Product ID,object,0,10000,,
+Type,object,0,3,,
+Air temperature [K],float64,0,93,295.3,304.5
+Process temperature [K],float64,0,82,305.7,313.8
+Rotational speed [rpm],int64,0,941,1168.0,2886.0
+Torque [Nm],float64,0,577,3.8,76.6
+Tool wear [min],int64,0,246,0.0,253.0
+Machine failure,int64,0,2,0.0,1.0
+TWF,int64,0,2,0.0,1.0
+HDF,int64,0,2,0.0,1.0
+PWF,int64,0,2,0.0,1.0
+OSF,int64,0,2,0.0,1.0
+RNF,int64,0,2,0.0,1.0

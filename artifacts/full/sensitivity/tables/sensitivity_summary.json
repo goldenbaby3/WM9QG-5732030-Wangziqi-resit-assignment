@@ -1,0 +1,8 @@
+{
+  "blocked_failure_rate": 0.0195,
+  "blocked_pr_auc": 0.7426986613307944,
+  "blocked_roc_auc": 0.9607408569672721,
+  "seed_pr_auc_mean": 0.883212504581007,
+  "seed_pr_auc_std": 0.027020964367233453,
+  "seed_roc_auc_mean": 0.9748683168919744
+}
